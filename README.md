@@ -1,2 +1,3 @@
-# MakerBox
-Libraries, lessons and projects for the Space Trek MakerBox
+# SpaceTrek EasyStarterKit
+
+for EasyStarter filesystems on Arduino Unos.
