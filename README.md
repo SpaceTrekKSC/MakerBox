@@ -5,20 +5,35 @@ This entry level kit contains the basics you'll need to get started in the world
 ## What is Arduino
 Arduino refers to an open-source electronics platform or board and the software used to program it. Arduino is designed to make electronics and programming more accessible to students, artists, designers, hobbyists and ayone interested in creating interactive objects or environments.
 
-## What's Included
+## What's Included in the MakerBox
 
 | Image          | Part | Description  		|
 | ------------- | ------------- |---------------------|
-| ![alt text](images/uno-board.jpg "Uno Board") | Uno Board | The Arduino Uno is an open source single-board controller capable of controlling multiple input and output devices. |
+| ![alt text](images/uno-board.jpg "Arduino Uno") | Arduino Uno | The Arduino Uno is an open source micro controller capable of controlling multiple input and output devices. |
+| ![alt text](images/uno-board.jpg "IO Shield") | IO Shield | The IO Shield goes on the Uno and makes connecting devices simple and foolproof. |
+| ![alt text](images/uno-board.jpg "Jumper Wires") | Jumper Wires | The jumper wires connect the devices to the IO Shield. |
 | ![alt text](images/usb-cable.jpg "USB Cable") | USB Cable | You'll need this to connect your Uno to your computer to power and load code onto the board. |
-| ![alt text](images/breadboard.jpg "Breadboard") | Breadboard | Breadboards are handy boards used for testing circuit designs. With multiple pins you can easily connect multiple sensors, switches and LEDs. |
-| ![alt text](images/jumper-leads.jpg "Jumper Leads") | Jumper Leads | Jumper wires are wires that have connector pins at either end, and are commonly used between the Uno, breadboard & and any external sensors you might be using in your next project. |
-| ![alt text](images/leds.png "LEDs") | LEDs | LED stands for 'Light Emitting Diode', a semiconductor device that converts electricity into light. In simple terms, it's a small light that operates on a low voltage. |
-| ![alt text](images/tactile-switch.jpg "Tactile Switches") | Tactile Switches | These switches can be used to turn on and off circuits. They are momentary, meaning they only operate when the button is held down. |
-| ![alt text](images/motor-fan.jpg "DC Motor with Fan") | DC Motor with Fan | DC motor is one type of motor that uses the DC current to convert electrical energy into mechanical energy. This small motor & fan combination is used in project 4 to control the speed of the fan. |
-| ![alt text](images/resistors.jpg "Resistors") | Resistors | A resistor is an electrical component that limits or regulates the flow of electrical current in an electronic circuit. |
-| ![alt text](images/potentiometer.jpg "Potentiometer") | Potentiometer | A potentiometer is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. Where only two pins are used, it becomes a variable resistor. |
-| ![alt text](images/buzzer.jpg "Buzzer") | Buzzer | A buzzer is an electrical device that makes a buzzing noise and is used for signaling. |
+| ![alt text](images/uno-board.jpg "MicroSD Card") | MicroSD Card | The microSD card is for the MP3 player. |
+| ![alt text](images/uno-board.jpg "MicroSD Adapter") | MicroSD Adapter | The MicroSD adapter allows you to connect a microSD card through your USB port. |
+| ![alt text](images/uno-board.jpg "MP3 Player") | MP3 Player | An MP3 player for playing music and voice files. |
+| ![alt text](images/uno-board.jpg "Touch Pad") | Touch Pad | A capacitive touch pad fro reading user input. |
+| ![alt text](images/uno-board.jpg "1602 LCD Display") | 1602 LCD Display | A 16 character by two row LCD display to see output from your Arduino. |
+| ![alt text](images/uno-board.jpg "IR Remote Control") | IR Remote Control | An infrared remote control for providing input to your Arduino. |
+| ![alt text](images/uno-board.jpg "Ultrasonic Distance Sensor") | Ultrasonic Distance Sensor | An ultrasonic distance sensor meassures distance using sound. |
+| ![alt text](images/uno-board.jpg "Temperature Sensor") | Temperature Sensor | Meassure your enviroments temperature with this sensor. |
+| ![alt text](images/uno-board.jpg "Water Sensor") | Water Sensor | Detects the presence of water or other conductive materials. |
+| ![alt text](images/uno-board.jpg "Light Sensor") | Light Sensor | Detects how much light there is with a photoresistor. |
+| ![alt text](images/uno-board.jpg "Active Buzzer") | Active Buzzer | The active buzzer generates a fixed tone when it is turned on. |
+| ![alt text](images/uno-board.jpg "Passive Buzzer") | Passive Buzzer | The passive buzzer lets you provide it with different frequencies to change the tone it generates. |
+| ![alt text](images/uno-board.jpg "Real Time Clock") | Real Time Clock | The Real Time Clock (RTC) keeps acturate time even when your Arduino is powered off. |
+| ![alt text](images/uno-board.jpg "Button") | Button | A simple push button for your projects. |
+| ![alt text](images/uno-board.jpg "Rocker Switch") | Rocker Switch | A simple switch for your projects. |
+| ![alt text](images/uno-board.jpg "Slider") | Slider | A slider changes resistance as it's position is changed. |
+| ![alt text](images/uno-board.jpg "Knob") | Knob | Similar to the slider but rotated instead of slid. |
+| ![alt text](images/uno-board.jpg "LED") | LED | A simple LED. |
+| ![alt text](images/uno-board.jpg "RGB LED") | RGB LED | The RGB stands for Red, Green, Blue. This LED lets you change its color |
+| ![alt text](images/uno-board.jpg "Vibration Motor") | Vibration Motor | A vibration motor is what lets your cell phone vibrate or have heptic feedback. |
+| ![alt text](images/uno-board.jpg "4 Digit Display") | 4 Digit Display | The 4 digit display uses 7 segment characters like an old digital clock. |
 
 ## Getting Started
 
