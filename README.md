@@ -16,24 +16,24 @@ Arduino refers to an open-source electronics platform or board and the software 
 | ![MicroSD Card](extras/images/microsd.jpg "MicroSD Card") | MicroSD Card | The microSD card is for the MP3 player. |
 | ![MicroSD Adapter](images/uno-board.jpg "MicroSD Adapter") | MicroSD Adapter | The MicroSD adapter allows you to connect a microSD card through your USB port. |
 | ![MP3 Player](extras/images/mp3.jpg "MP3 Player") | MP3 Player | An MP3 player for playing music and voice files. |
-| ![Touch Pad](extras/images/touch-sensor.jpg "Touch Pad") | Touch Pad | A capacitive touch pad fro reading user input. |
+| ![Touch Pad](extras/images/touch-sensor.jpg "Touch Pad") | Touch Pad | A capacitive touch pad fro reading user input. Newer kits have a blue circuit board. |
 | ![1602 LCD](extras/images/1602lcd.jpg "1602 LCD Display") | 1602 LCD Display | A 16 character by two row LCD display to see output from your Arduino. |
 | ![IR Remote](extras/images/remote.jpg "IR Remote Control") | IR Remote Control | An infrared remote control for providing input to your Arduino. |
 | ![Ultrasonic Sensor](extras/images/ultrasonic.jpg "Ultrasonic Distance Sensor") | Ultrasonic Distance Sensor | An ultrasonic distance sensor meassures distance using sound. |
-| ![alt text](images/uno-board.jpg "Temperature Sensor") | Temperature Sensor | Meassure your enviroments temperature with this sensor. |
-| ![alt text](images/uno-board.jpg "Water Sensor") | Water Sensor | Detects the presence of water or other conductive materials. |
-| ![alt text](images/uno-board.jpg "Light Sensor") | Light Sensor | Detects how much light there is with a photoresistor. |
-| ![alt text](images/uno-board.jpg "Active Buzzer") | Active Buzzer | The active buzzer generates a fixed tone when it is turned on. |
-| ![alt text](images/uno-board.jpg "Passive Buzzer") | Passive Buzzer | The passive buzzer lets you provide it with different frequencies to change the tone it generates. |
-| ![alt text](images/uno-board.jpg "Real Time Clock") | Real Time Clock | The Real Time Clock (RTC) keeps acturate time even when your Arduino is powered off. |
-| ![alt text](images/uno-board.jpg "Button") | Button | A simple push button for your projects. |
-| ![alt text](images/uno-board.jpg "Rocker Switch") | Rocker Switch | A simple switch for your projects. |
-| ![alt text](images/uno-board.jpg "Slider") | Slider | A slider changes resistance as it's position is changed. |
-| ![alt text](images/uno-board.jpg "Knob") | Knob | Similar to the slider but rotated instead of slid. |
-| ![alt text](images/uno-board.jpg "LED") | LED | A simple LED. |
-| ![alt text](images/uno-board.jpg "RGB LED") | RGB LED | The RGB stands for Red, Green, Blue. This LED lets you change its color |
-| ![alt text](images/uno-board.jpg "Vibration Motor") | Vibration Motor | A vibration motor is what lets your cell phone vibrate or have heptic feedback. |
-| ![alt text](images/uno-board.jpg "4 Digit Display") | 4 Digit Display | The 4 digit display uses 7 segment characters like an old digital clock. |
+| ![Temperature Sensor](extras/images/temp-sensor.jpg "Temperature Sensor") | Temperature Sensor | Meassure your enviroments temperature with this sensor. |
+| ![Water Sensor](extras/images/water-sensor.jpg "Water Sensor") | Water Sensor | Detects the presence of water or other conductive materials. |
+| ![Light Sensort](extras/images/light-sensor.jpg "Light Sensor") | Light Sensor | Detects how much light there is with a photoresistor. |
+| ![Active Buzzer](extras/images/active-buzzer.jpg "Active Buzzer") | Active Buzzer | The active buzzer generates a fixed tone when it is turned on. |
+| ![Passive Buzzer](extras/images/passive-buzzer.jpg "Passive Buzzer") | Passive Buzzer | The passive buzzer lets you provide it with different frequencies to change the tone it generates. |
+| ![Real Time Clock](extras/images/rtc.jpg "Real Time Clock") | Real Time Clock | The Real Time Clock (RTC) keeps acturate time even when your Arduino is powered off. |
+| ![Button](extras/images/uno-board.jpg "Button") | Button | A simple push button for your projects. Button color may vary. |
+| ![Rocker Switch](extras/images/switch.jpg "Rocker Switch") | Rocker Switch | A simple switch for your projects. |
+| ![Slider](extras/images/slider.jpg "Slider") | Slider | A slider changes resistance as it's position is changed. |
+| ![Knob](extras/images/knob.jpg "Knob") | Knob | Similar to the slider but rotated instead of slid. |
+| ![LED](extras/images/led.jpg "LED") | LED | A simple LED. |
+| ![RGB LED](extras/images/rgbled.jpg "RGB LED") | RGB LED | The RGB stands for Red, Green, Blue. This LED lets you change its color.  Newer kits have a blue circuit board. |
+| ![Vibration Motor](extrasimages/vibration.jpg "Vibration Motor") | Vibration Motor | A vibration motor is what lets your cell phone vibrate or have heptic feedback. |
+| ![4 Digit Display](extras/images/display.jpg "4 Digit Display") | 4 Digit Display | The 4 digit display uses 7 segment characters like an old digital clock. |
 
 ## Getting Started
 
