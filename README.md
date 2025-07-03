@@ -3,8 +3,8 @@
 This entry level kit contains the basics you'll need to get started in the world of Arduino programming & electronics.
 
 ## Table of Contents
-- [Getting Started](#Getting-Started)
-- [What's Included in the MakerBox](#What's-Inlcuded-in-the-MakerBox)
+- [Getting Started](#getting-started)
+- [What's Included in the MakerBox](#whats-inlcuded-in-the-makerbox)
 - [Projects](#Projects)
 
 
