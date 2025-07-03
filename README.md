@@ -32,7 +32,7 @@ Arduino refers to an open-source electronics platform or board and the software 
 | ![Knob](extras/images/knob.jpg "Knob") | Knob | Similar to the slider but rotated instead of slid. |
 | ![LED](extras/images/led.jpg "LED") | LED | A simple LED. |
 | ![RGB LED](extras/images/rgbled.jpg "RGB LED") | RGB LED | The RGB stands for Red, Green, Blue. This LED lets you change its color.  Newer kits have a blue circuit board. |
-| ![Vibration Motor](extrasimages/vibration.jpg "Vibration Motor") | Vibration Motor | A vibration motor is what lets your cell phone vibrate or have heptic feedback. |
+| ![Vibration Motor](extras/images/vibration.jpg "Vibration Motor") | Vibration Motor | A vibration motor is what lets your cell phone vibrate or have heptic feedback. |
 | ![4 Digit Display](extras/images/display.jpg "4 Digit Display") | 4 Digit Display | The 4 digit display uses 7 segment characters like an old digital clock. |
 
 ## Getting Started
