@@ -3,7 +3,7 @@
 This entry level kit contains the basics you'll need to get started in the world of Arduino programming & electronics.
 
 ## Table of Contents
-- ["Getting Started"]("#Getting Started")
+- [Getting Started](#Getting-Started)
 - [Projects](#Projects)
 
 
