@@ -87,8 +87,5 @@ Now that you have the Arduino IDE setup and ready to use you can begin working t
 
 | Project          | Outcome |
 | ------------- |---------------------|
-| [Using an LED](https://github.com/) | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. |
-| [Using a Potentiometer](https://github.com/) | Use a potentiometer to adjust the brightness of the in-built LED on the Arduino Uno. |
-| [Using Buttons](https://github.com/) | Use feedback from an analogue sensor to activate a buzzer via the Arduino board. |
-| [Fan Speed Controller](https://github.com/) | Use variable feedback from a potentiometer to adjust the speed of the motor. |
-| [Traffic Lights](https://github.com/) | Simulate traffic lights using multiple LEDs & a loop circuit in Arduino. |
+| [Using an LED]([https://github.com/](https://github.com/SpaceTrekKSC/MakerBox)) | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. |
+| [Using Buttons]([https://github.com/](https://github.com/SpaceTrekKSC/MakerBox)) | Use feedback from an analogue sensor to activate a buzzer via the Arduino board. |
