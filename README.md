@@ -2,6 +2,14 @@
 
 This entry level kit contains the basics you'll need to get started in the world of Arduino programming & electronics.
 
+## Table of Contents
+- [Getting Started](#Getting Started)
+- [Projects](#Projects)
+
+
+## Getting Started
+
+
 ## What is Arduino
 Arduino refers to an open-source electronics platform or board and the software used to program it. Arduino is designed to make electronics and programming more accessible to students, artists, designers, hobbyists and ayone interested in creating interactive objects or environments.
 
