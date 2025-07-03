@@ -13,38 +13,6 @@ This entry level kit contains the basics you'll need to get started in the world
 ### What is Arduino
 Arduino refers to an open-source electronics platform or board and the software used to program it. Arduino is designed to make electronics and programming more accessible to students, artists, designers, hobbyists and ayone interested in creating interactive objects or environments.
 
-## What's Included in the MakerBox
-
-| Image          | Part | Description  		|
-| ------------- | ------------- |---------------------|
-| ![Arduino Uno](extras/images/uno-board.jpg "Arduino Uno") | Arduino Uno | The Arduino Uno is an open source micro controller capable of controlling multiple input and output devices. |
-| ![IO-Shield](extras/images/io-shield.jpg "IO Shield") | IO Shield | The IO Shield goes on the Uno and makes connecting devices simple and foolproof. |
-| ![Jumper Wires](extras/images/jumpers.jpg "Jumper Wires") | Jumper Wires | The jumper wires connect the devices to the IO Shield. |
-| ![USB Cablet](extras/images/usb-cable.jpg "USB Cable") | USB Cable | You'll need this to connect your Uno to your computer to power and load code onto the board. |
-| ![MicroSD Card](extras/images/microsd.jpg "MicroSD Card") | MicroSD Card | The microSD card is for the MP3 player. |
-| ![MicroSD Adapter](images/uno-board.jpg "MicroSD Adapter") | MicroSD Adapter | The MicroSD adapter allows you to connect a microSD card through your USB port. |
-| ![MP3 Player](extras/images/mp3.jpg "MP3 Player") | MP3 Player | An MP3 player for playing music and voice files. |
-| ![Touch Pad](extras/images/touch-sensor.jpg "Touch Pad") | Touch Pad | A capacitive touch pad fro reading user input. Newer kits have a blue circuit board. |
-| ![1602 LCD](extras/images/1602lcd.jpg "1602 LCD Display") | 1602 LCD Display | A 16 character by two row LCD display to see output from your Arduino. |
-| ![IR Remote](extras/images/remote.jpg "IR Remote Control") | IR Remote Control | An infrared remote control for providing input to your Arduino. |
-| ![Ultrasonic Sensor](extras/images/ultrasonic.jpg "Ultrasonic Distance Sensor") | Ultrasonic Distance Sensor | An ultrasonic distance sensor meassures distance using sound. |
-| ![Temperature Sensor](extras/images/temp-sensor.jpg "Temperature Sensor") | Temperature Sensor | Meassure your enviroments temperature with this sensor. |
-| ![Water Sensor](extras/images/water-sensor.jpg "Water Sensor") | Water Sensor | Detects the presence of water or other conductive materials. |
-| ![Light Sensort](extras/images/light-sensor.jpg "Light Sensor") | Light Sensor | Detects how much light there is with a photoresistor. |
-| ![Active Buzzer](extras/images/active-buzzer.jpg "Active Buzzer") | Active Buzzer | The active buzzer generates a fixed tone when it is turned on. |
-| ![Passive Buzzer](extras/images/passive-buzzer.jpg "Passive Buzzer") | Passive Buzzer | The passive buzzer lets you provide it with different frequencies to change the tone it generates. |
-| ![Real Time Clock](extras/images/rtc.jpg "Real Time Clock") | Real Time Clock | The Real Time Clock (RTC) keeps acturate time even when your Arduino is powered off. |
-| ![Button](extras/images/uno-board.jpg "Button") | Button | A simple push button for your projects. Button color may vary. |
-| ![Rocker Switch](extras/images/switch.jpg "Rocker Switch") | Rocker Switch | A simple switch for your projects. |
-| ![Slider](extras/images/slider.jpg "Slider") | Slider | A slider changes resistance as it's position is changed. |
-| ![Knob](extras/images/knob.jpg "Knob") | Knob | Similar to the slider but rotated instead of slid. |
-| ![LED](extras/images/led.jpg "LED") | LED | A simple LED. |
-| ![RGB LED](extras/images/rgbled.jpg "RGB LED") | RGB LED | The RGB stands for Red, Green, Blue. This LED lets you change its color.  Newer kits have a blue circuit board. |
-| ![Vibration Motor](extras/images/vibration.jpg "Vibration Motor") | Vibration Motor | A vibration motor is what lets your cell phone vibrate or have heptic feedback. |
-| ![4 Digit Display](extras/images/display.jpg "4 Digit Display") | 4 Digit Display | The 4 digit display uses 7 segment characters like an old digital clock. |
-
-## Getting Started
-
 ### Install Arduino IDE
 The Arduino IDE can be found on the official Arduino website at https://www.arduino.cc/en/Main/Software
 
@@ -75,6 +43,37 @@ Now, simply click the "Upload" button in the environment. Wait a few seconds - y
 ![alt text](images/uploading.png "Uploading Code")
 
 The example projects in this kit are free of errors, however, if you write your own code you may find an error when uploading your code. The software will show a message indicating the type of error and the location in which it appears in the code.
+
+## What's Included in the MakerBox
+
+| Image          | Part | Description  		|
+| ------------- | ------------- |---------------------|
+| ![Arduino Uno](extras/images/uno-board.jpg "Arduino Uno") | Arduino Uno | The Arduino Uno is an open source micro controller capable of controlling multiple input and output devices. |
+| ![IO-Shield](extras/images/io-shield.jpg "IO Shield") | IO Shield | The IO Shield goes on the Uno and makes connecting devices simple and foolproof. |
+| ![Jumper Wires](extras/images/jumpers.jpg "Jumper Wires") | Jumper Wires | The jumper wires connect the devices to the IO Shield. |
+| ![USB Cablet](extras/images/usb-cable.jpg "USB Cable") | USB Cable | You'll need this to connect your Uno to your computer to power and load code onto the board. |
+| ![MicroSD Card](extras/images/microsd.jpg "MicroSD Card") | MicroSD Card | The microSD card is for the MP3 player. |
+| ![MicroSD Adapter](images/uno-board.jpg "MicroSD Adapter") | MicroSD Adapter | The MicroSD adapter allows you to connect a microSD card through your USB port. |
+| ![MP3 Player](extras/images/mp3.jpg "MP3 Player") | MP3 Player | An MP3 player for playing music and voice files. |
+| ![Touch Pad](extras/images/touch-sensor.jpg "Touch Pad") | Touch Pad | A capacitive touch pad fro reading user input. Newer kits have a blue circuit board. |
+| ![1602 LCD](extras/images/1602lcd.jpg "1602 LCD Display") | 1602 LCD Display | A 16 character by two row LCD display to see output from your Arduino. |
+| ![IR Remote](extras/images/remote.jpg "IR Remote Control") | IR Remote Control | An infrared remote control for providing input to your Arduino. |
+| ![Ultrasonic Sensor](extras/images/ultrasonic.jpg "Ultrasonic Distance Sensor") | Ultrasonic Distance Sensor | An ultrasonic distance sensor meassures distance using sound. |
+| ![Temperature Sensor](extras/images/temp-sensor.jpg "Temperature Sensor") | Temperature Sensor | Meassure your enviroments temperature with this sensor. |
+| ![Water Sensor](extras/images/water-sensor.jpg "Water Sensor") | Water Sensor | Detects the presence of water or other conductive materials. |
+| ![Light Sensort](extras/images/light-sensor.jpg "Light Sensor") | Light Sensor | Detects how much light there is with a photoresistor. |
+| ![Active Buzzer](extras/images/active-buzzer.jpg "Active Buzzer") | Active Buzzer | The active buzzer generates a fixed tone when it is turned on. |
+| ![Passive Buzzer](extras/images/passive-buzzer.jpg "Passive Buzzer") | Passive Buzzer | The passive buzzer lets you provide it with different frequencies to change the tone it generates. |
+| ![Real Time Clock](extras/images/rtc.jpg "Real Time Clock") | Real Time Clock | The Real Time Clock (RTC) keeps acturate time even when your Arduino is powered off. |
+| ![Button](extras/images/uno-board.jpg "Button") | Button | A simple push button for your projects. Button color may vary. |
+| ![Rocker Switch](extras/images/switch.jpg "Rocker Switch") | Rocker Switch | A simple switch for your projects. |
+| ![Slider](extras/images/slider.jpg "Slider") | Slider | A slider changes resistance as it's position is changed. |
+| ![Knob](extras/images/knob.jpg "Knob") | Knob | Similar to the slider but rotated instead of slid. |
+| ![LED](extras/images/led.jpg "LED") | LED | A simple LED. |
+| ![RGB LED](extras/images/rgbled.jpg "RGB LED") | RGB LED | The RGB stands for Red, Green, Blue. This LED lets you change its color.  Newer kits have a blue circuit board. |
+| ![Vibration Motor](extras/images/vibration.jpg "Vibration Motor") | Vibration Motor | A vibration motor is what lets your cell phone vibrate or have heptic feedback. |
+| ![4 Digit Display](extras/images/display.jpg "4 Digit Display") | 4 Digit Display | The 4 digit display uses 7 segment characters like an old digital clock. |
+
 
 ## Projects
 Now that you have the Arduino IDE setup and ready to use you can begin working through our beginner projects.
