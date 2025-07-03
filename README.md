@@ -10,16 +10,16 @@ Arduino refers to an open-source electronics platform or board and the software 
 | Image          | Part | Description  		|
 | ------------- | ------------- |---------------------|
 | ![Arduino Uno](extras/images/uno-board.jpg "Arduino Uno") | Arduino Uno | The Arduino Uno is an open source micro controller capable of controlling multiple input and output devices. |
-| ![alt text](extras/images/io-shield.jpg "IO Shield") | IO Shield | The IO Shield goes on the Uno and makes connecting devices simple and foolproof. |
-| ![alt text](extras/images/jumpers.jpg "Jumper Wires") | Jumper Wires | The jumper wires connect the devices to the IO Shield. |
-| ![alt text](extras/images/usb-cable.jpg "USB Cable") | USB Cable | You'll need this to connect your Uno to your computer to power and load code onto the board. |
-| ![alt text](images/uno-board.jpg "MicroSD Card") | MicroSD Card | The microSD card is for the MP3 player. |
-| ![alt text](images/uno-board.jpg "MicroSD Adapter") | MicroSD Adapter | The MicroSD adapter allows you to connect a microSD card through your USB port. |
-| ![alt text](images/uno-board.jpg "MP3 Player") | MP3 Player | An MP3 player for playing music and voice files. |
-| ![alt text](images/uno-board.jpg "Touch Pad") | Touch Pad | A capacitive touch pad fro reading user input. |
-| ![alt text](images/uno-board.jpg "1602 LCD Display") | 1602 LCD Display | A 16 character by two row LCD display to see output from your Arduino. |
-| ![alt text](extras/images/remote.jpg "IR Remote Control") | IR Remote Control | An infrared remote control for providing input to your Arduino. |
-| ![alt text](images/uno-board.jpg "Ultrasonic Distance Sensor") | Ultrasonic Distance Sensor | An ultrasonic distance sensor meassures distance using sound. |
+| ![IO-Shield](extras/images/io-shield.jpg "IO Shield") | IO Shield | The IO Shield goes on the Uno and makes connecting devices simple and foolproof. |
+| ![Jumper Wires](extras/images/jumpers.jpg "Jumper Wires") | Jumper Wires | The jumper wires connect the devices to the IO Shield. |
+| ![USB Cablet](extras/images/usb-cable.jpg "USB Cable") | USB Cable | You'll need this to connect your Uno to your computer to power and load code onto the board. |
+| ![MicroSD Card](extras/images/microsd.jpg "MicroSD Card") | MicroSD Card | The microSD card is for the MP3 player. |
+| ![MicroSD Adapter](images/uno-board.jpg "MicroSD Adapter") | MicroSD Adapter | The MicroSD adapter allows you to connect a microSD card through your USB port. |
+| ![MP3 Player](extras/images/mp3.jpg "MP3 Player") | MP3 Player | An MP3 player for playing music and voice files. |
+| ![Touch Pad](extras/images/touch-sensor.jpg "Touch Pad") | Touch Pad | A capacitive touch pad fro reading user input. |
+| ![1602 LCD](extras/images/1602lcd.jpg "1602 LCD Display") | 1602 LCD Display | A 16 character by two row LCD display to see output from your Arduino. |
+| ![IR Remote](extras/images/remote.jpg "IR Remote Control") | IR Remote Control | An infrared remote control for providing input to your Arduino. |
+| ![Ultrasonic Sensor](extras/images/ultrasonic.jpg "Ultrasonic Distance Sensor") | Ultrasonic Distance Sensor | An ultrasonic distance sensor meassures distance using sound. |
 | ![alt text](images/uno-board.jpg "Temperature Sensor") | Temperature Sensor | Meassure your enviroments temperature with this sensor. |
 | ![alt text](images/uno-board.jpg "Water Sensor") | Water Sensor | Detects the presence of water or other conductive materials. |
 | ![alt text](images/uno-board.jpg "Light Sensor") | Light Sensor | Detects how much light there is with a photoresistor. |
