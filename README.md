@@ -87,5 +87,5 @@ Now that you have the Arduino IDE setup and ready to use you can begin working t
 
 | Project          | Outcome |
 | ------------- |---------------------|
-| [Using an LED](https://github.com/SpaceTrekKSC/MakerBox)) | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. |
-| [Using Buttons](https://github.com/SpaceTrekKSC/MakerBox)) | Use feedback from an analogue sensor to activate a buzzer via the Arduino board. |
+| [Using an LED](https://github.com/SpaceTrekKSC/MakerBox) | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. |
+| [Using Buttons](https://github.com/SpaceTrekKSC/MakerBox) | Use feedback from an analogue sensor to activate a buzzer via the Arduino board. |
