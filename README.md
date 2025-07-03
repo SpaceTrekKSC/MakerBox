@@ -7,7 +7,7 @@ This entry level kit contains the basics you'll need to get started in the world
   - [Install Arduino](#install-the-arduino-ide)
   - [Install MakerBox Library](#install-the-makerbox-library)
 - [What's Included in the MakerBox](#whats-included-in-the-makerbox)
-- [Projects](#projects)
+<!-- - [Projects](#projects) -->
 
 
 ## Getting Started
