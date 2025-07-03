@@ -6,6 +6,7 @@ This entry level kit contains the basics you'll need to get started in the world
 - [Getting Started](#getting-started)
   - [Install Arduino](#install-the-arduino-ide)
   - [Install MakerBox Library](#install-the-makerbox-library)
+- [Using the Example Lessons](#using-the-example-lessons)
 - [What's Included in the MakerBox](#whats-included-in-the-makerbox)
 <!-- - [Projects](#projects) -->
 
@@ -23,7 +24,8 @@ Download the version suitable for your computer and follow the prompts to instal
 
 Alternativly, if you are using Windows you can install Arduino through the Microsoft Store or Company Portal if it has been added by your company IT department.
 
-### Install the MakerBox Library 
+### Install the MakerBox Library
+To install this library in Arduino you will use the Arduino Library Manager.  It is located on the left hand side of the IDE.  It is the third button from the top.  Open the library manager and search for MakerBox.  Click Install and when prompted **make sure you install all dependancies**.  This library uses a few other open-source libraries that must be installed for all examples to work.  If you do not install these additional libraries now you will see an error message when you try to compile examples that need the.  You can use the library manager to search for the missing libraries and install them that way if you choose.
 
 ### Write or Paste Code 
 Opening the Arduino IDE for the first time, you will be presented with the following screen.
@@ -49,7 +51,11 @@ Now, simply click the "Upload" button in the environment. Wait a few seconds - y
 
 ![alt text](images/uploading.png "Uploading Code")
 
-The example projects in this kit are free of errors, however, if you write your own code you may find an error when uploading your code. The software will show a message indicating the type of error and the location in which it appears in the code.
+The example projects in this kit are free of errors, however, if you modify them or write your own code you may find an error when uploading your code. The software will show a message indicating the type of error and the location in which it appears in the code.
+
+##Using the Example Lessons
+This library includes examples on how to use each of the components included in the kit.  Each example
+
 
 ## What's Included in the MakerBox
 
