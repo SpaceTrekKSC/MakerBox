@@ -53,7 +53,7 @@ Now, simply click the "Upload" button in the environment. Wait a few seconds - y
 
 The example projects in this kit are free of errors, however, if you modify them or write your own code you may find an error when uploading your code. The software will show a message indicating the type of error and the location in which it appears in the code.
 
-##Using the Example Lessons
+## Using the Example Lessons
 This library includes examples on how to use each of the components included in the kit.  Each example
 
 
