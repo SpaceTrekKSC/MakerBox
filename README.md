@@ -4,6 +4,7 @@ This entry level kit contains the basics you'll need to get started in the world
 
 ## Table of Contents
 - [Getting Started](#Getting-Started)
+- [What's Included in the MakerBox](#What's-Inlcuded-in-the-MakerBox)
 - [Projects](#Projects)
 
 
