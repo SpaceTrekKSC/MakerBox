@@ -10,7 +10,7 @@ Arduino refers to an open-source electronics platform or board and the software 
 | Image          | Part | Description  		|
 | ------------- | ------------- |---------------------|
 | ![Arduino Uno](extras/images/uno-board.jpg "Arduino Uno") | Arduino Uno | The Arduino Uno is an open source micro controller capable of controlling multiple input and output devices. |
-| ![alt text](images/uno-board.jpg "IO Shield") | IO Shield | The IO Shield goes on the Uno and makes connecting devices simple and foolproof. |
+| ![alt text](extras/images/io-shield.jpg "IO Shield") | IO Shield | The IO Shield goes on the Uno and makes connecting devices simple and foolproof. |
 | ![alt text](images/uno-board.jpg "Jumper Wires") | Jumper Wires | The jumper wires connect the devices to the IO Shield. |
 | ![alt text](extras/images/usb-cable.jpg "USB Cable") | USB Cable | You'll need this to connect your Uno to your computer to power and load code onto the board. |
 | ![alt text](images/uno-board.jpg "MicroSD Card") | MicroSD Card | The microSD card is for the MP3 player. |
