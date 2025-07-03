@@ -4,6 +4,8 @@ This entry level kit contains the basics you'll need to get started in the world
 
 ## Table of Contents
 - [Getting Started](#getting-started)
+  - [Install Arduino](#install-the-arduino-ide)
+  - [Install MakerBox Library](#install-the-maker-box-library)
 - [What's Included in the MakerBox](#whats-included-in-the-makerbox)
 - [Projects](#projects)
 
@@ -12,12 +14,16 @@ This entry level kit contains the basics you'll need to get started in the world
 
 
 ### What is Arduino
-Arduino refers to an open-source electronics platform or board and the software used to program it. Arduino is designed to make electronics and programming more accessible to students, artists, designers, hobbyists and ayone interested in creating interactive objects or environments.
+The MakerBox has an Arduino board and is programmed using the Arduino IDE. Arduino refers to an open-source electronics platform or board and the software used to program it. Arduino is designed to make electronics and programming more accessible to students, artists, designers, hobbyists and ayone interested in creating interactive objects or environments.  You will need to install Arduino on your computer and then install this library in Arduino to program the MakerBox.
 
-### Install Arduino IDE
+### Install the Arduino IDE
 The Arduino IDE can be found on the official Arduino website at https://www.arduino.cc/en/Main/Software
 
 Download the version suitable for your computer and follow the prompts to install the software package.
+
+Alternativly, if you are using Windows you can install Arduino through the Microsoft Store or Company Portal if it has been added by your company IT department.
+
+### Install the MakerBox Library 
 
 ### Write or Paste Code 
 Opening the Arduino IDE for the first time, you will be presented with the following screen.
