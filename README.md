@@ -54,7 +54,7 @@ Now, simply click the "Upload" button in the environment. Wait a few seconds - y
 The example projects in this kit are free of errors, however, if you modify them or write your own code you may find an error when uploading your code. The software will show a message indicating the type of error and the location in which it appears in the code.
 
 ## Using the Example Lessons
-This library includes examples on how to use each of the components included in the kit.  Each example
+This library includes examples on how to use each of the components included in the kit.  To open the example files go to the menu and choose File>Examples>SpaceTrek MakerBox and then you will see a list of all of the example files. The L## examples are lessons and are complete and will compile without issue.  The P## files are projects and are missing code because they are intended to show you have learned the skills thought in the lessons.  All of the examples ahve detailed comments that will tell you how to use the components and what each line of code is doing.
 
 
 ## What's Included in the MakerBox
