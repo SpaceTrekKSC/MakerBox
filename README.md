@@ -98,6 +98,6 @@ Now that you have the Arduino IDE setup and ready to use you can begin working t
 
 | Project          | Outcome |
 | ------------- |---------------------|
-| [Using an LED](https://github.com/SpaceTrekKSC/MakerBox) | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. |
-| [Hello Arduino](https://github.com/SpaceTrekKSC/MakerBox) | An Arduino twist on the classic Hello World program.  You will learn how to use the Serial port. |
+| [Using an LED](https://github.com/SpaceTrekKSC/MakerBox/blob/main/examples/L00_Blink/L00_Blink.ino) | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. |
+| [Hello Arduino](https://github.com/SpaceTrekKSC/MakerBox/blob/main/examples/L00_Hello_Arduino/L00_Hello_Arduino.ino) | An Arduino twist on the classic Hello World program.  You will learn how to use the Serial port. |
 
