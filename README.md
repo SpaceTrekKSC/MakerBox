@@ -96,7 +96,7 @@ The L## examples are lessons and are complete and will compile without issue.  T
 ## Lessons
 Now that you have the Arduino IDE setup and ready to use you can begin working through our beginner projects.
 
-| Project          | Outcome |
+| Lesson          | Outcome |
 | ------------- |---------------------|
 | [Blink](https://github.com/SpaceTrekKSC/MakerBox/blob/main/examples/L00_Blink/L00_Blink.ino) | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. |
 | [Hello&nbsp;Arduino](https://github.com/SpaceTrekKSC/MakerBox/blob/main/examples/L00_Hello_Arduino/L00_Hello_Arduino.ino) | An Arduino twist on the classic Hello World program.  You will learn how to use the Serial port. |
