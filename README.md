@@ -84,7 +84,7 @@ The L## examples are lessons and are complete and will compile without issue.  T
 | ![Active Buzzer](extras/images/active-buzzer.jpg "Active Buzzer") | Active Buzzer | The active buzzer generates a fixed tone when it is turned on. |
 | ![Passive Buzzer](extras/images/passive-buzzer.jpg "Passive Buzzer") | Passive Buzzer | The passive buzzer lets you provide it with different frequencies to change the tone it generates. |
 | ![Real Time Clock](extras/images/rtc.jpg "Real Time Clock") | Real Time Clock | The Real Time Clock (RTC) keeps acturate time even when your Arduino is powered off. |
-| ![Button](extras/images/uno-board.jpg "Button") | Button | A simple push button for your projects. Button color may vary. |
+| ![Button](extras/images/button.jpg "Button") | Button | A simple push button for your projects. Button color may vary. |
 | ![Rocker Switch](extras/images/switch.jpg "Rocker Switch") | Rocker Switch | A simple switch for your projects. |
 | ![Slider](extras/images/slider.jpg "Slider") | Slider | A slider changes resistance as it's position is changed. |
 | ![Knob](extras/images/knob.jpg "Knob") | Knob | Similar to the slider but rotated instead of slid. |
