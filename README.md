@@ -8,7 +8,7 @@ This entry level kit contains the basics you'll need to get started in the world
   - [Install MakerBox Library](#install-the-makerbox-library)
 - [Using the Example Lessons](#using-the-example-lessons)
 - [What's Included in the MakerBox](#whats-included-in-the-makerbox)
-<!-- - [Projects](#projects) -->
+- [Lessons](#lessons)
 
 
 ## Getting Started
@@ -25,24 +25,24 @@ Download the version suitable for your computer and follow the prompts to instal
 Alternativly, if you are using Windows you can install Arduino through the Microsoft Store or Company Portal if it has been added by your company IT department.
 
 ### Install the MakerBox Library
-To install this library in Arduino you will use the Arduino Library Manager.  It is located on the left hand side of the IDE.  It is the third button from the top.  Open the library manager and search for MakerBox.  Click Install and when prompted **make sure you install all dependancies**.  This library uses a few other open-source libraries that must be installed for all examples to work.  If you do not install these additional libraries now you will see an error message when you try to compile examples that need the.  You can use the library manager to search for the missing libraries and install them that way if you choose.
+To install this library in Arduino you will use the Arduino Library Manager.  It is located on the left hand side of the IDE.  It is the third button from the top.  Open the library manager and search for MakerBox.  Click Install and when prompted **make sure you install all dependancies**.  This library uses a few other open-source libraries that must be installed for all examples to work.  If you do not install these additional libraries now you will see an error message when you try to compile examples that need them.  You can use the library manager to search for the missing libraries and install them that way if you choose.
 
 ### Write or Paste Code 
 Opening the Arduino IDE for the first time, you will be presented with the following screen.
 
 ![alt text](images/ide-main.png "IDE Main Screen")
 
-This is where you will write or paste in the code for your project.
+This is where you will write or paste in the code for your program.
 
 ### Uploading Code
 Now that you have prepared your code, it's time to upload it onto the board.
 
 #### Selecting Board type & Port
-You'll need to select the entry in the Tools > Board menu that corresponds to your Arduino board. For the duinotech Uno, you will select Arduino/Genuino Uno.
+You'll need to select the entry in the Tools > Board menu that corresponds to your Arduino board. For the MakerBox, you will select **Arduino Uno**.
 
 ![alt text](images/board-type.png "Board Type")
 
-Select the serial device of the board from the Tools | Serial Port menu. This is likely to be COM3 or higher (COM1 and COM2 are usually reserved for hardware serial ports). To find out, you can disconnect your board and re-open the menu; the entry that disappears should be the duinotech Uno board. Reconnect the board and select that serial port.
+Select the serial device of the board from the Tools | Serial Port menu. This is likely to be COM3 or higher (COM1 and COM2 are usually reserved for hardware serial ports). To find out, you can disconnect your board and re-open the menu; the entry that disappears should be the Arduino Uno board. Reconnect the board and select that serial port.
 
 ![alt text](images/selecting-port.png "Selecting Port")
 
@@ -51,14 +51,14 @@ Now, simply click the "Upload" button in the environment. Wait a few seconds - y
 
 ![alt text](images/uploading.png "Uploading Code")
 
-The example projects in this kit are free of errors, however, if you modify them or write your own code you may find an error when uploading your code. The software will show a message indicating the type of error and the location in which it appears in the code.
+The example programs in this kit are free of errors, however, if you modify them or write your own code you may find an error when uploading your code. The software will show a message indicating the type of error and the location in which it appears in the code.
 
 ## Using the Example Lessons
 This library includes examples on how to use each of the components included in the kit.  To open the example files go to the menu and choose "File>Examples>SpaceTrek MakerBox" and then you will see a list of all of the example files. 
 
 ![Examples](extras/images/examplesmenu.png "Examples")
 
-The L## examples are lessons and are complete and will compile without issue.  The P## files are projects and are missing code because they are intended to show you have learned the skills thought in the lessons.  All of the examples ahve detailed comments that will tell you how to use the components and what each line of code is doing.  Make sure you read all of the comments to fully understand how things work and what you need to do to make them work with the components in the kit.
+The L## examples are lessons and are complete and will compile without issue.  The P## files are projects and are missing code because they are intended to show you have learned the skills taught in the lessons.  All of the examples have detailed comments that will tell you how to use the components and what each line of code is doing.  Make sure you read all of the comments to fully understand how things work and what you need to do to make them work with the components in the kit.
 
 ![Examples](extras/images/examplescomments.png "Comments")
 
@@ -94,11 +94,11 @@ The L## examples are lessons and are complete and will compile without issue.  T
 | ![4 Digit Display](extras/images/display.jpg "4 Digit Display") | 4 Digit Display | The 4 digit display uses 7 segment characters like an old digital clock. |
 
 <!--
-## Projects
+## Lessons
 Now that you have the Arduino IDE setup and ready to use you can begin working through our beginner projects.
 
 | Project          | Outcome |
 | ------------- |---------------------|
 | [Using an LED](https://github.com/SpaceTrekKSC/MakerBox) | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. |
-| [Using Buttons](https://github.com/SpaceTrekKSC/MakerBox) | Use feedback from an analogue sensor to activate a buzzer via the Arduino board. |
+| [Hello Arduino](https://github.com/SpaceTrekKSC/MakerBox) | An Arduino twist on the classic Hello World program.  You will learn how to use the Serial port. |
 -->
