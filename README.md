@@ -93,7 +93,6 @@ The L## examples are lessons and are complete and will compile without issue.  T
 | ![Vibration Motor](extras/images/vibration.jpg "Vibration Motor") | Vibration Motor | A vibration motor is what lets your cell phone vibrate or have heptic feedback. |
 | ![4 Digit Display](extras/images/display.jpg "4 Digit Display") | 4 Digit Display | The 4 digit display uses 7 segment characters like an old digital clock. |
 
-<!--
 ## Lessons
 Now that you have the Arduino IDE setup and ready to use you can begin working through our beginner projects.
 
@@ -101,4 +100,4 @@ Now that you have the Arduino IDE setup and ready to use you can begin working t
 | ------------- |---------------------|
 | [Using an LED](https://github.com/SpaceTrekKSC/MakerBox) | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. |
 | [Hello Arduino](https://github.com/SpaceTrekKSC/MakerBox) | An Arduino twist on the classic Hello World program.  You will learn how to use the Serial port. |
--->
+
