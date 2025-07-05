@@ -136,16 +136,16 @@ void loop() {                           // loop repeats over and over
 
   if(Update == ON){                     // update the display if interrupt timer says to
     TimeUpdate();                       // get the updated time
-    Update == OFF;                      // set Update flag to off
+    Update = OFF;                       // set Update flag to off
   }
   if(flag_speak){                       // if speak time flag was changed
-    SpeakTime(Time);                    // speak the current time
-    flag_speak_time = 0;                // set the speak time flag to false
+    SpeakTime();                        // speak the current time
+    flag_speak = 0;                     // set the speak time flag to false
   }
 }
 
 // This function speaks the current time
-void SpeakTime(int8_t time[]){
+void SpeakTime(){
   uint8_t addr[10] = {0};                                   // we use this array to construct the sentences
   uint8_t next = 0;                                         // counter to keep track of the next index
   addr[next++] = 31;                                        // 031 plays a bell before speaking

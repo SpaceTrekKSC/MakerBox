@@ -147,21 +147,21 @@ void loop() {                           // loop repeats over and over
   	buzzer.off();                       // turn the buzzer off
   	while(button == touch.get());       // Wait for the button to be released
   }
-  float celsius;
+  float celsius = 0.0;
   if(Update == ON){                     // update the display if interrupt timer says to
     TimeUpdate();                       // get the updated time
-	  celsius = temper.getTemperature();  // get temperature
+    celsius = temper.getTemperature();  // get temperature
     displayTemperature(celsius);        // display updated temperature
-    Update == OFF;                      // set Update flag to off
+    Update = OFF;                       // set Update flag to off
   }
   updateVolume();                       // set volume based on current angle of knob
   if(flag_speak_time){                  // if speak time flag was changed
-    SpeakTime(Time);                    // speak the current time
-	  flag_speak_time = 0;                // set the speak time flag to false
+    SpeakTime();                        // speak the current time
+    flag_speak_time = 0;                // set the speak time flag to false
   }
   if(flag_speak_temp){                  // if speak temp flag was changed
     SpeakTemp(celsius);                 // speak the current temperature
-	  flag_speak_temp = 0;                // set speak temp flag to false
+    flag_speak_temp = 0;                // set speak temp flag to false
   } 
 }
 
@@ -180,7 +180,7 @@ void updateVolume(){
 }
 
 // This function speaks the current time
-void SpeakTime(int8_t time[]){
+void SpeakTime(){
   uint8_t addr[10] = {0};                                 // we use this array to construct the sentences
   uint8_t next = 0;                                       // counter to keep track of next index
   addr[next++] = 31;                                      // 031 plays a bell before speaking

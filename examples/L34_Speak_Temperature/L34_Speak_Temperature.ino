@@ -110,7 +110,7 @@ void loop() {                           // loop repeats over and over
     }
 	  while(touch.get() == TOUCH_OUT1);   // Wait for the button to be released
   }
-  float celsius;                        // declare variable named celsius of type float
+  float celsius = 0.0;                        // declare variable named celsius of type float
   if(Update == ON){                     // update the display if the interupt timer says to
     Update = OFF;                       // reset the Update flag to OFF
     celsius = temper.getTemperature();  // get temperature and store it in celsius
